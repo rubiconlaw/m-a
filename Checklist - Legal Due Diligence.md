@@ -1,18 +1,19 @@
-#Sample Legal Due Diligence Checklist
+# Sample Legal Due Diligence Checklist
 
-###Corporate Records	
+### Corporate Records	
 	1.	Certificate or Articles of Incorporation, including all amendments.					
 	2.	Bylaws, including all amendments.	
 	3.	Written consents of directors and stockholders.					
 	4.	Minutes of directors’ and stockholders’ meetings.					
 						 	
-###Securities
+### Securities
 	1.	A list of the company’s stockholders and option holders (i.e. capitalization table).					
 	2.	Copies of options, warrants, or other agreements that provide for purchase or acquisition of company securities.					
 	3.	Copies of all agreements relating to the company’s past stock issuances and a summary of any related vesting schedules.					
 	4.	Copies of Form Ds, Blue Sky filings, and any other documents relating to compliance with applicable state and federal securities laws.					
-	5.	Any other documents or agreements related to the sale or purchase of securities (e.g., investor rights agreements and voting agreements).			
-###Agreements					
+	5.	Any other documents or agreements related to the sale or purchase of securities (e.g., investor rights agreements and voting agreements).	
+	
+### Agreements					
 	1.	Any agreements or proposed transactions to which the company is a party that involve obligations of, or payments to, the company.				
 	2.	Contracts with suppliers, distributors, customers or manufacturers.					
 	3.	Property purchase, lease, or sublease agreements.					
@@ -31,7 +32,7 @@
 	16.	Partnership, joint venture, association, research and development, and technical cooperation agreements.					
 	17.	Any other agreement material to the company.					
 							
-###Intellectual Property						
+### Intellectual Property						
 	1.	List of principal products (including products being developed) in each line of business, with short descriptions of the products, respective prices and stage of development.					
 	2.	Company procedures for identifying, harvesting and protecting inventions.					
 	3.	Licenses or agreements related to the company’s or others’ patent, copyright, trade secret or other proprietary rights, proprietary information or technology.					
@@ -45,13 +46,13 @@
 	11.	Agreements with the company’s current and former employers relating to use of the company’s proprietary information.					
 	12.	Reseller agreements.					
 							
-###Litigation						
+### Litigation						
 	1.	Pending or threatened lawsuits, actions, or investigations.					
 	2.	Allegations of the company’s infringement of the proprietary rights of others.					
 	3.	Settlement agreements.					
 	4.	Inquiries from federal, state or other government officials (e.g., tax, environmental, occupational safety and hazard).					
 	5.	Judgments or orders involving the company, its officers, or its directors.					
 							
-###Miscellaneous						
+### Miscellaneous						
 	1.	Most recent financial statements.					
 	2.	List of officers and directors.					
