@@ -14,21 +14,23 @@
 	5.	Any other documents or agreements related to the sale or purchase of securities (e.g., investor rights agreements and voting agreements).	
 	
 ### Agreements					
-- [ ] Any agreements or proposed transactions to which the company is a party that involve obligations of, or payments to, the company.				
-- [ ] Contracts with suppliers, distributors, customers or manufacturers.					
-- [ ] Property purchase, lease, or sublease agreements.					vv
+- [ ] Any agreements or proposed transactions to which the company is a party that involve obligations of, or payments to, the company.
+- [ ] Contracts with suppliers, distributors, customers or manufacturers.
+- [ ] Property purchase, lease, or sublease agreements.
 - [ ] Documents relating to indebtedness for money borrowed, guaranties, equipment leases or any similar liabilities incurred by the company.
 - [ ] Mortgages, liens, loans and encumbrances on the company’s property or assets.					
 - [ ] Loans or advances made by the company.					
 - [ ] Any agreements, understandings or proposed transactions between the company and any of its officers, directors, employees or affiliates (e.g., employment agreements).		
-- [ ] Copies of proprietary information and invention assignment agreements signed by all employees and contractors.		- [ ] Employee offer letters.					
+- [ ] Copies of proprietary information and invention assignment agreements signed by all employees and contractors.
+- [ ] Employee offer letters.					
 - [ ] Consulting or independent contractor agreements.					
 - [ ] A summary of insurance policies, or certificates of insurance, that the company holds or benefits from.			
 - [ ] Employee benefit plans (e.g. stock option plans, pension plans and insurance plans).					
 - [ ] Acquisition agreements. 					
 - [ ] Confidentiality agreements.					
 - [ ] Agreements with competitors, including non-competition agreements.					
-- [ ] Partnership, joint venture, association, research and development, and technical cooperation agreements.			- [ ] Any other agreement material to the company.					
+- [ ] Partnership, joint venture, association, research and development, and technical cooperation agreements.
+- [ ] Any other agreement material to the company.					
 							
 ### Intellectual Property						
 	1.	List of principal products (including products being developed) in each line of business, with short descriptions of the products, respective prices and stage of development.					
