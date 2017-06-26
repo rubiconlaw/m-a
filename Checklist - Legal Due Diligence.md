@@ -15,21 +15,19 @@
 ### Agreements					
 - [ ] Any agreements or proposed transactions to which the company is a party that involve obligations of, or payments to, the company.				
 - [ ] Contracts with suppliers, distributors, customers or manufacturers.					
-	3.	Property purchase, lease, or sublease agreements.					vv
-	4.	Documents relating to indebtedness for money borrowed, guaranties, equipment leases or any similar liabilities incurred by the company.
-	5.	Mortgages, liens, loans and encumbrances on the company’s property or assets.					
-	6.	Loans or advances made by the company.					
-	7.	Any agreements, understandings or proposed transactions between the company and any of its officers, directors, employees or affiliates (e.g., employment agreements).		
-	8.	Copies of proprietary information and invention assignment agreements signed by all employees and contractors.					
-	9.	Employee offer letters.					
-	10.	Consulting or independent contractor agreements.					
-	11.	A summary of insurance policies, or certificates of insurance, that the company holds or benefits from.			
-	12.	Employee benefit plans (e.g. stock option plans, pension plans and insurance plans).					
-	13.	Acquisition agreements. 					
-	14.	Confidentiality agreements.					
-	15.	Agreements with competitors, including non-competition agreements.					
-	16.	Partnership, joint venture, association, research and development, and technical cooperation agreements.					
-	17.	Any other agreement material to the company.					
+- [ ] Property purchase, lease, or sublease agreements.					vv
+- [ ] Documents relating to indebtedness for money borrowed, guaranties, equipment leases or any similar liabilities incurred by the company.
+- [ ] Mortgages, liens, loans and encumbrances on the company’s property or assets.					
+- [ ] Loans or advances made by the company.					
+- [ ] Any agreements, understandings or proposed transactions between the company and any of its officers, directors, employees or affiliates (e.g., employment agreements).		
+- [ ] Copies of proprietary information and invention assignment agreements signed by all employees and contractors.		- [ ] Employee offer letters.					
+- [ ] Consulting or independent contractor agreements.					
+- [ ] A summary of insurance policies, or certificates of insurance, that the company holds or benefits from.			
+- [ ] Employee benefit plans (e.g. stock option plans, pension plans and insurance plans).					
+- [ ] Acquisition agreements. 					
+- [ ] Confidentiality agreements.					
+- [ ] Agreements with competitors, including non-competition agreements.					
+- [ ] Partnership, joint venture, association, research and development, and technical cooperation agreements.			- [ ] Any other agreement material to the company.					
 							
 ### Intellectual Property						
 	1.	List of principal products (including products being developed) in each line of business, with short descriptions of the products, respective prices and stage of development.					
@@ -46,11 +44,11 @@
 	12.	Reseller agreements.					
 							
 ### Litigation						
-	1.	Pending or threatened lawsuits, actions, or investigations.					
-	2.	Allegations of the company’s infringement of the proprietary rights of others.					
-	3.	Settlement agreements.					
-	4.	Inquiries from federal, state or other government officials (e.g., tax, environmental, occupational safety and hazard).					
-	5.	Judgments or orders involving the company, its officers, or its directors.					
+* Pending or threatened lawsuits, actions, or investigations.					
+* Allegations of the company’s infringement of the proprietary rights of others.					
+* Settlement agreements.					
+* Inquiries from federal, state or other government officials (e.g., tax, environmental, occupational safety and hazard).
+* Judgments or orders involving the company, its officers, or its directors.					
 							
 ### Miscellaneous						
 	1.	Most recent financial statements.					
