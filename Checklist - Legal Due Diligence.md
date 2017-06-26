@@ -1,10 +1,10 @@
 # Sample Legal Due Diligence Checklist
 
 ### Corporate Records	
-1. Certificate or Articles of Incorporation, including all amendments.
-2. Bylaws, including all amendments.
-3. Written consents of directors and stockholders.				
-4. Minutes of directors’ and stockholders’ meetings.
+1.  Certificate or Articles of Incorporation, including all amendments.
+2.  Bylaws, including all amendments.
+3.  Written consents of directors and stockholders.				
+4.  Minutes of directors’ and stockholders’ meetings.
 						 	
 ### Securities
 	1.	A list of the company’s stockholders and option holders (i.e. capitalization table).
@@ -13,9 +13,9 @@
 	5.	Any other documents or agreements related to the sale or purchase of securities (e.g., investor rights agreements and voting agreements).	
 	
 ### Agreements					
-	1.	Any agreements or proposed transactions to which the company is a party that involve obligations of, or payments to, the company.				
-	2.	Contracts with suppliers, distributors, customers or manufacturers.					
-	3.	Property purchase, lease, or sublease agreements.					
+- [ ] Any agreements or proposed transactions to which the company is a party that involve obligations of, or payments to, the company.				
+- [ ] Contracts with suppliers, distributors, customers or manufacturers.					
+	3.	Property purchase, lease, or sublease agreements.					vv
 	4.	Documents relating to indebtedness for money borrowed, guaranties, equipment leases or any similar liabilities incurred by the company.
 	5.	Mortgages, liens, loans and encumbrances on the company’s property or assets.					
 	6.	Loans or advances made by the company.					
