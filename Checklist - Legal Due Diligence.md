@@ -8,7 +8,8 @@
 						 	
 ### Securities
 	1.	A list of the company’s stockholders and option holders (i.e. capitalization table).
-	2.	Copies of options, warrants, or other agreements that provide for purchase or acquisition of company securities.	3.	Copies of all agreements relating to the company’s past stock issuances and a summary of any related vesting schedules.
+	2.	Copies of options, warrants, or other agreements that provide for purchase or acquisition of company securities.
+	3.	Copies of all agreements relating to the company’s past stock issuances and a summary of any related vesting schedules.
 	4.	Copies of Form Ds, Blue Sky filings, and any other documents relating to compliance with applicable state and federal securities laws.
 	5.	Any other documents or agreements related to the sale or purchase of securities (e.g., investor rights agreements and voting agreements).	
 	
